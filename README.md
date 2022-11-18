@@ -1,7 +1,7 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:GURU PRASAD.B
-Roll no :212221230032
+ Name:GURU PRASAD.B
+ Roll no :212221230032
 
 ### Aim: 
 To configure and display 4 character LED seven segment display and write a c code for displaying number 1 to 9 and A to F 
